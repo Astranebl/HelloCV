@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/cryptotool.dir/main.cpp.o -o ../bin/cryptotool-1.0.0  ../lib/libcrypto_lib.a 

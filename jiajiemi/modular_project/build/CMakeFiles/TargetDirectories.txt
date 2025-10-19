@@ -1,0 +1,14 @@
+/home/astra/modular_project/build/CMakeFiles/edit_cache.dir
+/home/astra/modular_project/build/CMakeFiles/rebuild_cache.dir
+/home/astra/modular_project/build/CMakeFiles/list_install_components.dir
+/home/astra/modular_project/build/CMakeFiles/install.dir
+/home/astra/modular_project/build/CMakeFiles/install/local.dir
+/home/astra/modular_project/build/CMakeFiles/install/strip.dir
+/home/astra/modular_project/build/src/CMakeFiles/crypto_lib.dir
+/home/astra/modular_project/build/src/CMakeFiles/cryptotool.dir
+/home/astra/modular_project/build/src/CMakeFiles/edit_cache.dir
+/home/astra/modular_project/build/src/CMakeFiles/rebuild_cache.dir
+/home/astra/modular_project/build/src/CMakeFiles/list_install_components.dir
+/home/astra/modular_project/build/src/CMakeFiles/install.dir
+/home/astra/modular_project/build/src/CMakeFiles/install/local.dir
+/home/astra/modular_project/build/src/CMakeFiles/install/strip.dir
