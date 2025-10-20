@@ -17,3 +17,7 @@ https://www.yuque.com/astranebl/qrl3m6/ww7qaa7s7ou1plzx
 《Docker》
 
 第二周的实践任务在master的jiajiemi中
+
+https://www.yuque.com/astranebl/qrl3m6/zk8hw3puls6wpiyv
+
+《文本加解密工具介绍》
