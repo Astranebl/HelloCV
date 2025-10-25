@@ -21,3 +21,15 @@ https://www.yuque.com/astranebl/qrl3m6/ww7qaa7s7ou1plzx
 https://www.yuque.com/astranebl/qrl3m6/zk8hw3puls6wpiyv
 
 《文本加解密工具介绍》
+
+第三周：
+
+https://www.yuque.com/astranebl/qrl3m6/rbpgcd7tqpg04a5w
+
+《OpenCV》学习
+
+第三周的实践任务在master的OpenCVtask中
+
+https://www.yuque.com/astranebl/qrl3m6/wlxix7fm5c2qp791
+
+《第三周任务实践说明》
