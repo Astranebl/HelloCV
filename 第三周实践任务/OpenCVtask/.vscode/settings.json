@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.generator": "Unix Makefiles",
+    "cmake.buildBeforeRun": true,
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.h": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

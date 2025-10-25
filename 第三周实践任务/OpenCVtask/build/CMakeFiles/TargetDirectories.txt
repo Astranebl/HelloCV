@@ -1,0 +1,3 @@
+/home/astra/OpenCVtask/build/CMakeFiles/main.dir
+/home/astra/OpenCVtask/build/CMakeFiles/edit_cache.dir
+/home/astra/OpenCVtask/build/CMakeFiles/rebuild_cache.dir
